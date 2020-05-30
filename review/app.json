@@ -1,0 +1,18 @@
+[
+{
+  "model": "app.product",
+  "pk": 1,
+  "fields": {
+    "name": "Cтол",
+    "img": "/images/2018/09/29/46511d3ce6fdeb66a99216c6ae5dd415.jpg"
+  }
+},
+{
+  "model": "app.product",
+  "pk": 2,
+  "fields": {
+    "name": "Cтул",
+    "img": "/images/2018/09/29/gkehh.jpg"
+  }
+}
+]
